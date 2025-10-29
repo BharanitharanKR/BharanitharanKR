@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">Bharanitharan K R</h1>
-<h3 align="center" style="font-weight:500; color:#00FFFF;">Founder & CTO of Young-Frames | UI/UX Designer & Developer</h3>
+<h3 align="center" style="font-weight:500; color:#00FFFF;">Founder & CTO of Young-Frames | UI/UX Designer & Software Engineer</h3>
 <p align="center" style="font-style: italic;">Crafting intelligent interfaces that bridge creativity and technology.</p>
 
 ---
