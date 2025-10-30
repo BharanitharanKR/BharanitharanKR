@@ -44,13 +44,13 @@ To inspire creators to merge artistry with technical precision and redefine digi
   <tr>
     <td>
       <h3>🎨 Design & Prototyping</h3>
-      <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,blender&perline=6" /><br/>
-      <sub>Figma · Photoshop · Illustrator · XD · After Effects · Blender</sub>
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,sketch,blender&perline=6" /><br/>
+      <sub>Figma · Photoshop · Illustrator · XD · After Effects · sketch - Blender</sub>
     </td>
     <td>
       <h3>💻 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,gsap&perline=7" /><br/>
-      <sub>HTML · CSS · JavaScript · React · Next.js · TailwindCSS · GSAP</sub>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,tailwind,gsap&perline=7" /><br/>
+      <sub>HTML · CSS · JavaScript · Typescript - React · Next.js - PHP · TailwindCSS · GSAP</sub>
     </td>
   </tr>
 
