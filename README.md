@@ -37,17 +37,17 @@ To inspire creators to merge artistry with technical precision and redefine digi
 
 ---
 <!-- TECH STACK -->
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center" style="width:100%; border-spacing: 12px; text-align:center;">
   <tr>
     <td>
-      <h3>🎨 Design & Prototyping</h3>
+      <h3> Design & Prototyping</h3>
       <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,sketch,blender,canva,notion,pr&perline=6" /><br/>
       <sub>Figma · Photoshop · Illustrator · XD · After Effects · Blender · Premiere Pro · Sketch · Canva · Notion</sub>
     </td>
     <td>
-      <h3>💻 Frontend Development</h3>
+      <h3>Frontend Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,gsap,threejs,vite&perline=7" /><br/>
       <sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue · Angular · Svelte · TailwindCSS · Bootstrap · GSAP · Three.js · Vite</sub>
     </td>
@@ -55,12 +55,12 @@ To inspire creators to merge artistry with technical precision and redefine digi
 
   <tr>
     <td>
-      <h3>⚙️ Backend & Database</h3>
+      <h3>Backend & Database</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,flask,mongodb,redis,firebase,mysql,postgresql,graphql,prisma&perline=7" /><br/>
       <sub>Node.js · Express · Python · FastAPI · Django · Flask · MongoDB · Redis · Firebase · MySQL · PostgreSQL · GraphQL · Prisma ORM</sub>
     </td>
     <td>
-      <h3>☁️ Deployment & DevOps</h3>
+      <h3> Deployment & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=vercel,aws,azure,gcp,linux,docker,kubernetes,nginx,git,github,gitlab,netlify,cloudflare&perline=7" /><br/>
       <sub>Vercel · AWS · Azure · GCP · Linux · Docker · Kubernetes · Nginx · Git · GitHub · GitLab · Netlify · Cloudflare</sub>
     </td>
@@ -68,12 +68,12 @@ To inspire creators to merge artistry with technical precision and redefine digi
 
   <tr>
     <td>
-      <h3>🧠 AI, Automation & System Design</h3>
+      <h3> AI, Automation & System Design</h3>
       <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,fastapi,bash,powershell,postman,langchain,redis&perline=7" /><br/>
       <sub>Python · TensorFlow · OpenCV · LangChain · FastAPI · Bash · PowerShell · Redis Streams · Postman · REST / WebSocket Systems</sub>
     </td>
     <td>
-      <h3>🧩 Testing & Performance</h3>
+      <h3>Testing & Performance</h3>
       <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,webpack,babel,lighthouse&perline=7" /><br/>
       <sub>Jest · Vitest · Cypress · Selenium · Webpack · Babel · Lighthouse</sub>
     </td>
@@ -81,12 +81,12 @@ To inspire creators to merge artistry with technical precision and redefine digi
 
   <tr>
     <td>
-      <h3>📦 API, Tools & Productivity</h3>
+      <h3> API, Tools & Productivity</h3>
       <img src="https://skillicons.dev/icons?i=postman,swagger,notion,slack,figma,discord,trello&perline=7" /><br/>
       <sub>Postman · Swagger · Notion · Slack · Discord · Figma · Trello</sub>
     </td>
     <td>
-      <h3>💾 Cloud, Monitoring & CI/CD</h3>
+      <h3> Cloud, Monitoring & CI/CD</h3>
       <img src="https://skillicons.dev/icons?i=jenkins,githubactions,aws,gcp,datadog,prometheus,nginx&perline=7" /><br/>
       <sub>Jenkins · GitHub Actions · AWS Lambda · GCP Functions · Datadog · Prometheus · Nginx</sub>
     </td>
