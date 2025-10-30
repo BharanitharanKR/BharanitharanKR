@@ -45,7 +45,7 @@ To inspire creators to merge artistry with technical precision and redefine digi
     <td>
       <h3>🎨 Design & Prototyping</h3>
       <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,sketch,blender&perline=6" /><br/>
-      <sub>Figma · Photoshop · Illustrator · XD · After Effects · sketch - Blender</sub>
+      <sub>Figma · Photoshop · Illustrator · XD · After Effects - Blender</sub>
     </td>
     <td>
       <h3>💻 Frontend Development</h3>
