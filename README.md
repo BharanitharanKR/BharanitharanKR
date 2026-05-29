@@ -57,7 +57,7 @@ To inspire creators to merge artistry with technical precision and redefine digi
     <td>
       <h3>Backend & Database</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,flask,mongodb,redis,firebase,mysql,postgresql,graphql,prisma&perline=7" /><br/>
-      <sub>Node.js · Express · Python · FastAPI · Django · Flask · MongoDB · Redis · Firebase · MySQL · PostgreSQL · GraphQL · Prisma ORM</sub>
+      <sub>Node.js · Express · Python · FastAPI · Flask · MongoDB · Redis · Firebase · MySQL · PostgreSQL · GraphQL · Prisma ORM</sub>
     </td>
     <td>
       <h3> Deployment & DevOps</h3>
@@ -70,12 +70,12 @@ To inspire creators to merge artistry with technical precision and redefine digi
     <td>
       <h3> AI, Automation & System Design</h3>
       <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,fastapi,bash,powershell,postman,langchain,redis&perline=7" /><br/>
-      <sub>Python · TensorFlow · OpenCV · LangChain · FastAPI · Bash · PowerShell · Redis Streams · Postman · REST / WebSocket Systems</sub>
+      <sub>Python · TensorFlow · LangChain · FastAPI · Bash · PowerShell · Redis Streams · Postman · REST / WebSocket Systems</sub>
     </td>
     <td>
       <h3>Testing & Performance</h3>
       <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,webpack,babel,lighthouse&perline=7" /><br/>
-      <sub>Jest · Vitest · Cypress · Selenium · Webpack · Babel · Lighthouse</sub>
+      <sub>Jest · Cypress · Webpack · Babel · Lighthouse</sub>
     </td>
   </tr>
 
@@ -88,7 +88,7 @@ To inspire creators to merge artistry with technical precision and redefine digi
     <td>
       <h3> Cloud, Monitoring & CI/CD</h3>
       <img src="https://skillicons.dev/icons?i=jenkins,githubactions,aws,gcp,datadog,prometheus,nginx&perline=7" /><br/>
-      <sub>Jenkins · GitHub Actions · AWS Lambda · GCP Functions · Datadog · Prometheus · Nginx</sub>
+      <sub>Jenkins · GitHub Actions · AWS Lambda · GCP Functions · Datadog · Nginx</sub>
     </td>
   </tr>
 </table>
