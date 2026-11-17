@@ -17,9 +17,7 @@
 <td width="58%" valign="top">
 
 <h2>About Me</h2>
-I’m Bharanitharan, a final-year B.Tech IT student passionate about blending design and technology to create impactful digital experiences.
-With 5 internships across UI/UX and product design, and as the Founder & CTO of Young-Frames, I’ve built products that connect creativity with real-world usability.
-I love crafting interfaces that are not only functional but emotionally engaging — where design meets precision.
+Not confined to a layer of the stack. I bridge product thinking, design, development, and deployment — turning conversations into concepts, concepts into code, and code into products.
 
 <br>
 
