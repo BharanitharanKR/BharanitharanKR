@@ -1,24 +1,28 @@
 # Bharanitharan K R
 
-\<p align="center">   \<a href="[https://portfolio-bt.vercel.app](https://portfolio-bt.vercel.app)">     \<img src="[https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)" width="100%" alt="Bharanitharan's portfolio banner" />   \</a> \</p>
+<p align="center">
+  <a href="https://portfolio-bt.vercel.app">
+    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="Bharanitharan's portfolio banner" />
+  </a>
+</p>
 
-\<p align="center">   \<strong>Founder & CTO · Full-Stack Engineer · AI Product Builder · Creative Technologist\</strong> \</p>
+<h3 align="center">Founder & CTO · Full-Stack Engineer · AI Product Builder · Creative Technologist</h3>
 
-\<p align="center">   I build products, engineer intelligent systems, create developer tools, and explore the intersection of software and 3D experiences. \</p>
+<p align="center">I build products, engineer intelligent systems, create developer tools, and explore the intersection of software and 3D experiences.</p>
 
-\<p align="center">
-&#x20; \<a href="[https://portfolio-bt.vercel.app](https://portfolio-bt.vercel.app)">Portfolio\</a> ·
-&#x20; \<a href="[https://github.com/bharanitharankr](https://github.com/bharanitharankr)">GitHub\</a> ·
-&#x20; \<a href="[https://www.linkedin.com/in/bharanitharan-k-r-b53134259](https://www.linkedin.com/in/bharanitharan-k-r-b53134259)">LinkedIn\</a> ·
-&#x20; \<a href="[https://www.behance.net/bharanitharan5](https://www.behance.net/bharanitharan5)">Behance\</a> ·
-&#x20; \<a href="mailto\:bharani007bm\@gmail.com">Email\</a>
-\</p>
+<p align="center">
+  <a href="https://portfolio-bt.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/bharanitharankr">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/bharanitharan-k-r-b53134259">LinkedIn</a> ·
+  <a href="https://www.behance.net/bharanitharan5">Behance</a> ·
+  <a href="mailto:bharani007bm@gmail.com">Email</a>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Full--Stack-Engineering-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFFF](https://img.shields.io/badge/Full--Stack-Engineering-0D1117?style=for-the-badge\&logo=typescript\&logoColor=00FFFF)" alt="Full-stack engineering" />
-&#x20; \<img src="[https://img.shields.io/badge/AI-Product%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00FFFF](https://img.shields.io/badge/AI-Product%20Engineering-0D1117?style=for-the-badge\&logo=openai\&logoColor=00FFFF)" alt="AI product engineering" />
-&#x20; \<img src="[https://img.shields.io/badge/Creative-Development-0D1117?style=for-the-badge&logo=threedotjs&logoColor=00FFFF](https://img.shields.io/badge/Creative-Development-0D1117?style=for-the-badge\&logo=threedotjs\&logoColor=00FFFF)" alt="Creative development" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL--STACK-ENGINEERING-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFFF" alt="Full-stack engineering" />
+  <img src="https://img.shields.io/badge/AI-PRODUCT%20ENGINEERING-0D1117?style=for-the-badge&logo=openai&logoColor=00FFFF" alt="AI product engineering" />
+  <img src="https://img.shields.io/badge/CREATIVE-DEVELOPMENT-0D1117?style=for-the-badge&logo=threedotjs&logoColor=00FFFF" alt="Creative development" />
+</p>
 
 ---
 
@@ -26,18 +30,16 @@
 
 I'm a full-stack software engineer, product builder, and designer interested in building software from the ground up — from product discovery and interface design to backend architecture, AI integrations, infrastructure, and deployment.
 
-As the **Founder & CTO of Young Frames**, I work across product strategy, design engineering, and software development. I enjoy taking complex ideas and turning them into working products, developer tools, and intuitive digital experiences.
+As the **Founder & CTO of Young Frames**, I work across product strategy, design engineering, and software development. I enjoy turning complex ideas into working products, developer tools, and intuitive digital experiences.
 
-My work spans:
-
-- **Full-stack engineering:** Building complete applications with modern frontend frameworks, backend services, APIs, databases, and cloud infrastructure.
-- **AI engineering:** Developing LLM-powered applications, exploring agent workflows, retrieval-augmented generation, and model observability.
-- **Developer infrastructure:** Creating CLI tools, npm packages, document-processing workflows, and reusable engineering utilities.
+- **Full-stack engineering:** Applications spanning frontend frameworks, backend services, APIs, databases, and cloud infrastructure.
+- **AI engineering:** LLM-powered applications, agent workflows, retrieval-augmented generation, and model observability.
+- **Developer tooling:** CLI tools, npm packages, document-processing workflows, and reusable engineering utilities.
 - **Product engineering:** Translating user problems into product requirements, system architecture, interaction design, and maintainable implementations.
-- **Creative technology:** Combining UI/UX, Blender, Three.js, and interactive web development to build engaging digital experiences.
+- **Creative technology:** Combining UI/UX, Blender, Three.js, and interactive web development.
 - **Open source:** Contributing to developer tools, design software, and AI infrastructure.
 
-I care about more than getting code to work. I care about why a product should exist, how its architecture scales, how it performs, and whether it solves the problem it was designed for.
+I care about why a product should exist, how its architecture scales, how it performs, and whether it solves the problem it was designed for.
 
 ---
 
@@ -55,28 +57,22 @@ NovaNote brings collaborative note-taking, rich-text editing, project workflows,
 - Data architecture using Convex and PostgreSQL.
 - Product development focused on connecting information, collaboration, and execution.
 
-**Engineering focus:** Full-stack architecture, collaborative applications, rich-text editor engineering, data modeling, and AI integration.
-
+**Engineering focus:** Full-stack architecture, collaborative applications, editor engineering, data modeling, and AI integration.  
 **Stack:** Next.js · React · TypeScript · TipTap · Convex · PostgreSQL · LLM APIs
-
----
 
 ### 02. Tracewise — LLM Observability & Tracing
 
 **Exploring how to understand, inspect, and improve AI application execution.**
 
-Tracewise is a project inspired by the challenges of debugging and observing LLM-powered applications and multi-step agent workflows.
+Tracewise explores the challenges of debugging and observing LLM-powered applications and multi-step agent workflows.
 
 - Exploring structured traces for understanding LLM execution.
 - Organizing execution information for debugging and inspection.
 - Investigating token consumption, model costs, latency, and failure analysis.
 - Applying observability concepts to AI application workflows.
 
-**Engineering focus:** LLM instrumentation, tracing, observability architecture, evaluation, and cost analysis.
-
+**Engineering focus:** LLM instrumentation, tracing, observability architecture, evaluation, and cost analysis.  
 **Stack and concepts:** Python · TypeScript · LLM APIs · Structured telemetry · Tracing · Langfuse-inspired observability
-
----
 
 ### 03. Jev-Docs — Structured Document Intelligence
 
@@ -90,61 +86,43 @@ Jev-Docs explores a document-processing pipeline that separates document extract
 - Exploration of document indexing with Elasticsearch and Quadrant.
 - A design goal of reducing unnecessary model context and improving traceability.
 
-**Engineering focus:** Document intelligence, retrieval pipelines, structured extraction, indexing, and context-efficient AI systems.
-
+**Engineering focus:** Document intelligence, retrieval pipelines, structured extraction, indexing, and context-efficient AI systems.  
 **Stack and concepts:** Python · LiteParse · OpenRouter · Elasticsearch · Quadrant · Structured LLM workflows
-
----
 
 ### 04. BHGraph — Graph-Oriented Developer Tooling
 
 **Building reusable tools for graph-based workflows and developer productivity.**
-
-BHGraph is a developer-tooling project focused on graph-oriented functionality and command-line workflows.
 
 - CLI-based developer workflows.
 - Graph representations and structured relationships between information.
 - Reusable utilities designed around composability.
 - Package development and developer experience.
 
-**Engineering focus:** CLI architecture, graph data structures, package design, and developer tooling.
-
+**Engineering focus:** CLI architecture, graph data structures, package design, and developer tooling.  
 **Stack:** Node.js · JavaScript/TypeScript · npm · Graph-based data modeling
-
----
 
 ### 05. Frames3D — Creative Development for the Web
 
 **Exploring the intersection of interactive 3D, design, and frontend engineering.**
-
-Frames3D represents my interest in making 3D and spatial experiences part of modern web applications.
 
 - Browser-based 3D experiences.
 - Interactive visual elements and motion.
 - Integration of 3D assets into web interfaces.
 - Exploration of reusable approaches to creative frontend development.
 
-**Engineering focus:** Creative coding, interactive graphics, web rendering, and 3D experience design.
-
+**Engineering focus:** Creative coding, interactive graphics, web rendering, and 3D experience design.  
 **Stack:** Three.js · WebGL · JavaScript/TypeScript · Blender · Spline
-
----
 
 ### 06. Bharani Farm — Interactive 3D Exploration
 
 **A creative project exploring 3D-driven presentation and interactive web experiences.**
 
-This project represents my interest in combining visual storytelling, spatial design, and frontend development.
-
 - Exploration of interactive 3D scenes.
 - Combining visual design with web technologies.
 - Experimenting with spatial layouts and immersive presentation.
 
-**Engineering focus:** Three-dimensional interfaces, creative frontend development, and interactive web graphics.
-
+**Engineering focus:** Three-dimensional interfaces, creative frontend development, and interactive web graphics.  
 **Stack:** Three.js · JavaScript · Web Graphics
-
----
 
 ### 07. Young Frames — Product & Design Engineering
 
@@ -157,9 +135,8 @@ As Founder & CTO, I work across the intersection of design, software engineering
 - Brand systems, interactive interfaces, and reusable UI components.
 - Client-facing digital experiences and product delivery.
 
-**Engineering focus:** Product architecture, design systems, full-stack development, and translating requirements into usable software.
-
-**Stack:** React · Next.js · TypeScript · Tailwind CSS · Figma · Modern Web Tooling
+**Engineering focus:** Product architecture, design systems, full-stack development, and translating requirements into usable software.  
+**Stack:** React · Next.js · TypeScript · Tailwind CSS · Figma · Modern web tooling
 
 ---
 
@@ -167,23 +144,20 @@ As Founder & CTO, I work across the intersection of design, software engineering
 
 ### Full-Stack Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,python,fastapi,html,css,tailwind,vite&perline=7](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,python,fastapi,html,css,tailwind,vite\&perline=7)" alt="Full-stack development technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,python,fastapi,html,css,tailwind,vite&perline=7" alt="Full-stack development technologies" />
+</p>
 
-**Languages:** TypeScript · JavaScript · Python · Java · SQL · HTML · CSS
-
-**Frontend:** React · Next.js · Angular · Redux Toolkit · Tailwind CSS · Vite · TipTap
-
-**Backend:** Node.js · Express · FastAPI · REST APIs · WebSockets · Server-Sent Events
-
+**Languages:** TypeScript · JavaScript · Python · Java · SQL · HTML · CSS  
+**Frontend:** React · Next.js · Angular · Redux Toolkit · Tailwind CSS · Vite · TipTap  
+**Backend:** Node.js · Express · FastAPI · REST APIs · WebSockets · Server-Sent Events  
 **Engineering concepts:** API design · Authentication · State management · Modular architecture · Error handling · Performance optimization
 
 ### AI Engineering & LLM Applications
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker&perline=5](https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker\&perline=5)" alt="AI engineering supporting technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker&perline=5" alt="AI engineering supporting technologies" />
+</p>
 
 **LLM frameworks and tooling**
 
@@ -207,9 +181,9 @@ As Founder & CTO, I work across the intersection of design, software engineering
 
 ### Databases & Data Systems
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,prisma&perline=7](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,prisma\&perline=7)" alt="Database and data technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,prisma&perline=7" alt="Database and data technologies" />
+</p>
 
 PostgreSQL · MongoDB · Redis · MySQL · Firebase · Supabase · Convex · Prisma · Elasticsearch
 
@@ -217,9 +191,9 @@ PostgreSQL · MongoDB · Redis · MySQL · Firebase · Supabase · Convex · Pri
 
 ### Cloud, DevOps & Infrastructure
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,github,githubactions,vercel,cloudflare&perline=7](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,github,githubactions,vercel,cloudflare\&perline=7)" alt="Cloud and DevOps technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,github,githubactions,vercel,cloudflare&perline=7" alt="Cloud and DevOps technologies" />
+</p>
 
 Docker · Kubernetes · AWS · Google Cloud · Azure · Linux · Nginx · Git · GitHub Actions · Vercel · Cloudflare
 
@@ -227,17 +201,17 @@ Docker · Kubernetes · AWS · Google Cloud · Azure · Linux · Nginx · Git ·
 
 ### UI/UX & Product Design
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&perline=5](https://skillicons.dev/icons?i=figma,ps,ai,xd,blender\&perline=5)" alt="Design and creative technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&perline=5" alt="Design and creative technologies" />
+</p>
 
 Figma · Photoshop · Illustrator · UI architecture · Design systems · Prototyping · Interaction design · Accessibility · Product thinking · Visual communication
 
 ### 3D & Creative Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=threejs,blender,webgl&perline=3](https://skillicons.dev/icons?i=threejs,blender,webgl\&perline=3)" alt="3D and creative development technologies" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs,blender,webgl&perline=3" alt="3D and creative development technologies" />
+</p>
 
 Three.js · WebGL · Blender · Spline · Interactive 3D · Spatial interfaces · Motion design · Creative coding
 
@@ -251,14 +225,14 @@ Jest · Vitest · Cypress · Playwright · Postman · Lighthouse · ESLint · Pr
 
 ## How I Approach Engineering
 
-| Principle                | Approach                                                                |
-| ------------------------ | ----------------------------------------------------------------------- |
-| Product first            | Understand the user problem before choosing the technology.             |
-| Architecture matters     | Design maintainable systems with clear responsibilities and data flows. |
-| Measure performance      | Optimize based on observed bottlenecks and real requirements.           |
-| AI with accountability   | Evaluate output quality, latency, cost, and failure modes.              |
-| Design meets engineering | Treat usability and technical quality as complementary concerns.        |
-| Ship and iterate         | Learn from actual usage, debugging, and feedback.                       |
+| Principle | Approach |
+| --- | --- |
+| Product first | Understand the user problem before choosing the technology. |
+| Architecture matters | Design maintainable systems with clear responsibilities and data flows. |
+| Measure performance | Optimize based on observed bottlenecks and real requirements. |
+| AI with accountability | Evaluate output quality, latency, cost, and failure modes. |
+| Design meets engineering | Treat usability and technical quality as complementary concerns. |
+| Ship and iterate | Learn from actual usage, debugging, and feedback. |
 
 ---
 
@@ -277,41 +251,29 @@ My focus is on understanding existing codebases, contributing practical improvem
 
 ## GitHub Insights
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=bharanitharankr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF](https://github-readme-stats.vercel.app/api?username=bharanitharankr\&show_icons=true\&theme=react\&hide_border=true\&bg_color=0D1117\&title_color=00FFFF\&icon_color=00FFFF)" height="165" alt="GitHub statistics" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bharanitharankr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=bharanitharankr\&layout=compact\&theme=react\&hide_border=true\&bg_color=0D1117\&title_color=00FFFF)" height="165" alt="Most-used programming languages" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharanitharankr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanitharankr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="165" alt="Most-used programming languages" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=bharanitharankr&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF](https://github-readme-streak-stats.herokuapp.com/?user=bharanitharankr\&theme=react\&hide_border=true\&background=0D1117\&ring=00FFFF\&fire=00FFFF)" alt="GitHub contribution streak" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanitharankr&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## Let's Connect
 
-\<p align="center">
-&#x20; \<a href="[https://portfolio-bt.vercel.app](https://portfolio-bt.vercel.app)">
-&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=vercel\&logoColor=00FFFF)" alt="Portfolio" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/bharanitharankr](https://github.com/bharanitharankr)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00FFFF)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/bharanitharan-k-r-b53134259](https://www.linkedin.com/in/bharanitharan-k-r-b53134259)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00FFFF)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.behance.net/bharanitharan5](https://www.behance.net/bharanitharan5)">
-&#x20;   \<img src="[https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=00FFFF](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge\&logo=behance\&logoColor=00FFFF)" alt="Behance" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:bharani007bm\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=00FFFF)" alt="Email" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://portfolio-bt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF" alt="Portfolio" /></a>
+  <a href="https://github.com/bharanitharankr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/bharanitharan-k-r-b53134259"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/bharanitharan5"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=00FFFF" alt="Behance" /></a>
+  <a href="mailto:bharani007bm@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" /></a>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=bharanitharankr&label=Profile%20Views&color=00FFFF&style=flat-square](https://komarev.com/ghpvc/?username=bharanitharankr\&label=Profile%20Views\&color=00FFFF\&style=flat-square)" alt="Profile views" />
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharanitharankr&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+</p>
 
-\<p align="center">
-&#x20; \<em>Building useful software, intelligent systems, and interactive experiences at the intersection of engineering and creativity.\</em>
-\</p>
+<p align="center"><em>Building useful software, intelligent systems, and interactive experiences at the intersection of engineering and creativity.</em></p>
