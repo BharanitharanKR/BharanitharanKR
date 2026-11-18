@@ -96,14 +96,7 @@ To inspire creators to merge artistry with technical precision and redefine digi
   </tr>
 </table>
 
-### AI Engineering Concepts
 
-**LLM frameworks:** LangChain · LangGraph · Langfuse  
-**Model access:** OpenAI APIs · OpenRouter · Gemini · Claude · DeepSeek  
-**Retrieval:** RAG · Embeddings · Semantic Search · Vector Retrieval · Document Chunking  
-**Agent systems:** Tool Calling · Stateful Workflows · Structured Outputs · Context Management  
-**Observability:** Tracing · Token/Cost Tracking · Latency Analysis · Evaluation  
-**Integration:** REST APIs · WebSockets · Server-Sent Events · MCP concepts
 
 ---
 
