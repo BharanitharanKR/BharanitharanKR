@@ -8,7 +8,7 @@
 
 <h3 align="center">Founder & CTO · Full-Stack Engineer · AI Product Builder · Creative Technologist</h3>
 
-<p align="center">I build products, engineer intelligent systems, create developer tools, and explore the intersection of software and 3D experiences.</p>
+<p align="center">I build products, engineer intelligent systems, create developer tools, and explore interactive 3D experiences.</p>
 
 <p align="center">
   <a href="https://portfolio-bt.vercel.app">Portfolio</a> ·
@@ -18,246 +18,257 @@
   <a href="mailto:bharani007bm@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK-ENGINEERING-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFFF" alt="Full-stack engineering" />
-  <img src="https://img.shields.io/badge/AI-PRODUCT%20ENGINEERING-0D1117?style=for-the-badge&logo=openai&logoColor=00FFFF" alt="AI product engineering" />
-  <img src="https://img.shields.io/badge/CREATIVE-DEVELOPMENT-0D1117?style=for-the-badge&logo=threedotjs&logoColor=00FFFF" alt="Creative development" />
-</p>
-
 ---
 
 ## About Me
+## About Me
 
-I'm a full-stack software engineer, product builder, and designer interested in building software from the ground up — from product discovery and interface design to backend architecture, AI integrations, infrastructure, and deployment.
+I'm **Bharanitharan K R** — **Founder & CTO of Young Frames**, Full-Stack Software Engineer, AI Engineer, and Product Designer.
 
-As the **Founder & CTO of Young Frames**, I work across product strategy, design engineering, and software development. I enjoy turning complex ideas into working products, developer tools, and intuitive digital experiences.
+I build products from the ground up — architecting systems, engineering interfaces, developing backends, integrating AI, and taking ideas from concept to production. My work spans full-stack application development, LLM systems, document intelligence, developer infrastructure, distributed workflows, local-first software, and interactive 3D experiences.
 
-- **Full-stack engineering:** Applications spanning frontend frameworks, backend services, APIs, databases, and cloud infrastructure.
-- **AI engineering:** LLM-powered applications, agent workflows, retrieval-augmented generation, and model observability.
-- **Developer tooling:** CLI tools, npm packages, document-processing workflows, and reusable engineering utilities.
-- **Product engineering:** Translating user problems into product requirements, system architecture, interaction design, and maintainable implementations.
-- **Creative technology:** Combining UI/UX, Blender, Three.js, and interactive web development.
-- **Open source:** Contributing to developer tools, design software, and AI infrastructure.
+I believe great software comes from understanding the entire system, not just the layer you're working on. I move between product thinking, system architecture, engineering, and design to build solutions that are technically rigorous, intuitive to use, and built to scale.
 
-I care about why a product should exist, how its architecture scales, how it performs, and whether it solves the problem it was designed for.
+Beyond product development, I'm an active open-source contributor who believes in learning by building, questioning existing approaches, and making technology better for the people who use it.
 
 ---
 
-## Featured Projects
+## Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Design & Prototyping</h3>
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,blender,canva,notion&perline=6" alt="Design and prototyping tools" />
+      <br />
+      <sub>Figma · Photoshop · Illustrator · Adobe XD · After Effects · Blender · Canva · Notion</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,threejs,vite&perline=7" alt="Frontend technologies" />
+      <br />
+      <sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue · Angular · Svelte · Tailwind CSS · Bootstrap · Three.js · Vite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Backend & Database</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,python,fastapi,rust,mongodb,redis,firebase,mysql,postgresql,graphql,prisma&perline=7" alt="Backend and database technologies" />
+      <br />
+      <sub>Node.js · NestJS · Express · TypeScript · Python · FastAPI · Rust · MongoDB · Redis · Firebase · MySQL · PostgreSQL · GraphQL · Prisma · TypeORM</sub>
+    </td>
+    <td align="center">
+      <h3>Deployment & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=vercel,aws,azure,gcp,linux,docker,kubernetes,nginx,git,github,gitlab,netlify,cloudflare&perline=7" alt="Deployment and DevOps technologies" />
+      <br />
+      <sub>Vercel · AWS · Azure · GCP · Linux · Docker · Kubernetes · Nginx · Git · GitHub · GitLab · Netlify · Cloudflare</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>AI, Automation & System Design</h3>
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,fastapi,bash,powershell,postman,redis&perline=7" alt="AI and automation technologies" />
+      <br />
+      <sub>Python · TensorFlow · OpenCV · FastAPI · Bash · PowerShell · Postman · Redis Streams</sub>
+      <br />
+      <sub>LangChain · LangGraph · Langfuse · RAG · Embeddings · Agent Workflows · MCP · LLM Evaluation</sub>
+    </td>
+    <td align="center">
+      <h3>Testing & Performance</h3>
+      <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,webpack,babel&perline=6" alt="Testing and performance technologies" />
+      <br />
+      <sub>Jest · Vitest · Cypress · Selenium · Webpack · Babel · Lighthouse · Bundle Optimization</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>API, Tools & Productivity</h3>
+      <img src="https://skillicons.dev/icons?i=postman,swagger,notion,slack,figma,discord,trello&perline=7" alt="API and productivity tools" />
+      <br />
+      <sub>Postman · Swagger · Notion · Slack · Figma · Discord · Trello · REST APIs · WebSockets · SSE</sub>
+    </td>
+    <td align="center">
+      <h3>Cloud, Monitoring & CI/CD</h3>
+      <img src="https://skillicons.dev/icons?i=jenkins,githubactions,aws,gcp,datadog,prometheus,nginx&perline=7" alt="Cloud monitoring and CI/CD tools" />
+      <br />
+      <sub>Jenkins · GitHub Actions · AWS · GCP · Datadog · Prometheus · Nginx · Docker</sub>
+    </td>
+  </tr>
+</table>
+
+### AI Engineering Concepts
+
+**LLM frameworks:** LangChain · LangGraph · Langfuse  
+**Model access:** OpenAI APIs · OpenRouter · Gemini · Claude · DeepSeek  
+**Retrieval:** RAG · Embeddings · Semantic Search · Vector Retrieval · Document Chunking  
+**Agent systems:** Tool Calling · Stateful Workflows · Structured Outputs · Context Management  
+**Observability:** Tracing · Token/Cost Tracking · Latency Analysis · Evaluation  
+**Integration:** REST APIs · WebSockets · Server-Sent Events · MCP concepts
+
+---
+
+## Featured Projects & Engineering Work
 
 ### 01. NovaNote — Collaborative Knowledge & Project Workspace
 
-**A workspace for notes, projects, collaboration, and AI-assisted knowledge work.**
+NovaNote brings collaborative notes, project workflows, rich-text editing, and AI assistance into one workspace.  
+Built to support teams working across documents and projects, with NeuraChat providing AI-assisted interactions.  
+Used by **20+ organizations/teams** to support collaborative knowledge work.
 
-NovaNote brings collaborative note-taking, rich-text editing, project workflows, and AI assistance into one product experience.
+**Technical implementation**
+- **Frontend/editor:** Next.js, React, TypeScript, TipTap, rich-text extensions, editor state and document interactions.
+- **Data layer:** Convex and PostgreSQL, with application data modeling and persistence across product workflows.
+- **AI layer:** NeuraChat, LLM API integration, context-aware interactions, and model-provider abstraction where applicable.
+- **Product engineering:** Collaborative workspace UX, project/document flows, and full-stack feature delivery.
 
-- Rich-text document editing powered by TipTap.
-- Collaborative workflows for organizing knowledge and managing projects.
-- NeuraChat for AI-assisted interactions.
-- Data architecture using Convex and PostgreSQL.
-- Product development focused on connecting information, collaboration, and execution.
-
-**Engineering focus:** Full-stack architecture, collaborative applications, editor engineering, data modeling, and AI integration.  
-**Stack:** Next.js · React · TypeScript · TipTap · Convex · PostgreSQL · LLM APIs
+**Core engineering areas:** Rich-text editor architecture · Collaborative product workflows · Data modeling · AI integration · Full-stack application design
 
 ### 02. Tracewise — LLM Observability & Tracing
 
-**Exploring how to understand, inspect, and improve AI application execution.**
+Tracewise explores observability for LLM-powered applications: following a request through model calls, tools, and multi-step agent execution rather than treating an AI response as a black box.
 
-Tracewise explores the challenges of debugging and observing LLM-powered applications and multi-step agent workflows.
+**Technical implementation and concepts**
+- **Trace model:** Represent a request as a trace containing spans for model calls, retrieval steps, tool invocations, and agent transitions.
+- **LLM telemetry:** Capture model/provider, prompt and response metadata, token usage, latency, status, and error context when available.
+- **Cost analysis:** Derive per-call and per-trace cost from token counts and model-specific pricing metadata; keep pricing/version assumptions explicit.
+- **Debugging:** Correlate failures and slow spans with the parent request and downstream operations.
+- **Evaluation direction:** Compare outputs against datasets or evaluation criteria and use traces to inspect regressions.
+- **Framework alignment:** Langfuse concepts, LLM instrumentation, structured events, and trace/span relationships.
 
-- Exploring structured traces for understanding LLM execution.
-- Organizing execution information for debugging and inspection.
-- Investigating token consumption, model costs, latency, and failure analysis.
-- Applying observability concepts to AI application workflows.
+**Stack and concepts:** Python · TypeScript · LLM APIs · Langfuse concepts · Structured telemetry · Tracing · Evaluation · Token/cost analysis
 
-**Engineering focus:** LLM instrumentation, tracing, observability architecture, evaluation, and cost analysis.  
-**Stack and concepts:** Python · TypeScript · LLM APIs · Structured telemetry · Tracing · Langfuse-inspired observability
+### 03. Jev-Docs / DocJev — Decision-Driven Document Intelligence
 
-### 03. Jev-Docs — Structured Document Intelligence
+**A document-processing experiment that uses typed decisions to identify document boundaries before deterministic segmentation and retrieval.**
 
-**Making large document collections easier to process, index, and retrieve for AI workflows.**
+Instead of asking a generative LLM to infer every boundary and return JSON, the pipeline uses **LiteParse → TypeSafe Jev → deterministic segmentation**. The model handles uncertain classification decisions; software applies the resulting boundaries predictably.
 
-Jev-Docs explores a document-processing pipeline that separates document extraction, structured decisions, and retrieval from repeated full-document prompting.
+**Technical pipeline**
+- **Extraction:** LiteParse extracts document text/layout locally before decision inference.
+- **Typed classification:** TypeSafe Jev returns typed, probabilistic decisions for document classification and boundary detection.
+- **Deterministic segmentation:** Apply predicted boundaries in application code rather than asking the model to generate the final document structure.
+- **RAG pipeline:** Segment messy document packets into coherent documents, embed those units, retrieve top-k relevant context, and pass the higher-signal context to the LLM.
+- **Evaluation:** Tested on 40 public finance documents and 100 evaluation tasks.
 
-- Local document parsing and OCR with LiteParse.
-- Structured decision workflows using TypeSafe Jev.
-- Document segmentation and stable references for extracted content.
-- Exploration of document indexing with Elasticsearch and Quadrant.
-- A design goal of reducing unnecessary model context and improving traceability.
+**Reported experimental results**
+- **210 ms** document splitting.
+- **139 ms** classification.
+- **$0.0001** inference cost per document.
+- **32/32** evaluated boundaries recovered.
 
-**Engineering focus:** Document intelligence, retrieval pipelines, structured extraction, indexing, and context-efficient AI systems.  
-**Stack and concepts:** Python · LiteParse · OpenRouter · Elasticsearch · Quadrant · Structured LLM workflows
+These figures describe the reported experiment and evaluation set, not a universal performance guarantee.
 
-### 04. BHGraph — Graph-Oriented Developer Tooling
+**Stack and concepts:** LiteParse · TypeSafe Jev · RAG · Document classification · Deterministic segmentation · Embeddings · Top-k retrieval · Document AI · Evaluation
 
-**Building reusable tools for graph-based workflows and developer productivity.**
+[Read the project write-up](https://www.linkedin.com/feed/update/urn:li:activity:7511078595197538304/)
 
-- CLI-based developer workflows.
-- Graph representations and structured relationships between information.
-- Reusable utilities designed around composability.
-- Package development and developer experience.
+### 04. BHGraph — Codebase Intelligence for AI Agents
 
-**Engineering focus:** CLI architecture, graph data structures, package design, and developer tooling.  
-**Stack:** Node.js · JavaScript/TypeScript · npm · Graph-based data modeling
+**A local-first semantic code graph that helps AI coding agents answer architecture questions without repeatedly rediscovering a repository through file-by-file search.**
 
-### 05. Frames3D — Creative Development for the Web
+BHGraph parses a codebase with **Tree-sitter**, builds a graph of code symbols and relationships, stores the index in SQLite, and exposes targeted exploration through MCP tools.
 
-**Exploring the intersection of interactive 3D, design, and frontend engineering.**
+**Technical implementation**
+- **Parsing:** Tree-sitter extracts functions, classes, routes, and other code symbols.
+- **Semantic graph:** Model call relationships and synthesize framework-level edges such as Express route-to-handler bindings, React state/render relationships, and event-emitter/listener connections.
+- **Local index:** Store the graph in SQLite inside the repository; processing remains local and telemetry is off by default.
+- **MCP interface:** `bhgraph_explore` returns connected execution paths with source context; `bhgraph_node` expands a symbol with its definition, callers, and callees.
+- **Agent integration:** Designed for Claude Code, Cursor, Codex, Gemini CLI, and other MCP-capable agents.
 
-- Browser-based 3D experiences.
-- Interactive visual elements and motion.
-- Integration of 3D assets into web interfaces.
-- Exploration of reusable approaches to creative frontend development.
+**Reported benchmark results**
+- **40–81% fewer tool calls** across seven codebases: VS Code, Django, Tokio, OkHttp, Gin, Alamofire, and Excalidraw.
+- On VS Code (approximately **10k files**), one architecture question took **4 tool calls instead of 21** in the reported comparison.
+- The benchmark harness is available in the project repository for reproducibility.
 
-**Engineering focus:** Creative coding, interactive graphics, web rendering, and 3D experience design.  
+**Stack and concepts:** Tree-sitter · SQLite · MCP · Semantic code graphs · Static analysis · Call-graph traversal · Node.js · npm · Local-first indexing
+
+**Quick start:** `npx bhgraph`
+
+[Read the project write-up](https://www.linkedin.com/feed/update/urn:li:activity:7480910029093797889/) · [npm package](https://www.npmjs.com/package/bhgraph)
+
+### 05. Sedge — Local-First Knowledge Platform
+
+**A cross-platform, block-level knowledge platform and local-first alternative in the Obsidian/SiYuan space, combining structured documents, connected knowledge, search, database-like views, and AI-agent access.**
+
+Sedge was designed around explicit product and data-integrity decisions: the filesystem is the source of truth, SQLite is a rebuildable index, writes are atomic, and indexing runs asynchronously.
+
+**Technical implementation**
+- **Application architecture:** Go kernel with a TypeScript application/editor layer.
+- **Document model:** Block-level documents represented and processed with AST-oriented structures.
+- **Persistence:** Filesystem-native content storage; SQLite provides a rebuildable index rather than becoming the canonical source of truth.
+- **Search:** SQLite FTS5 for full-text search across local knowledge.
+- **Data integrity:** Atomic writes and separation of canonical content from derived indexes.
+- **Asynchronous indexing:** Index updates happen outside the critical write path to keep document operations responsive.
+- **Knowledge graph:** Connect related knowledge and expose relationships across documents.
+- **AI integration:** MCP support enables AI agents to interact with the local knowledge base through a defined interface.
+- **Distribution:** Cross-platform desktop application for macOS, Windows, and Linux.
+
+**Engineering focus:** AST-based document modeling · Filesystem-first persistence · Rebuildable indexes · Full-text search · Atomic writes · Async indexing · Knowledge graphs · MCP integration
+
+[Read the project write-up](https://www.linkedin.com/feed/update/urn:li:activity:7506074675773456385/)
+
+### 06. Frames3D — 3D for the Web
+
+Frames3D explores interactive 3D as a first-class part of web experiences, combining 3D assets, spatial interaction, and frontend engineering.
+
+**Technical implementation and optimization areas**
+- **Rendering:** Three.js/WebGL scene graph, camera, lighting, materials, and render loop.
+- **Asset pipeline:** Blender-to-web asset preparation, geometry cleanup, texture sizing, and export formats.
+- **GPU workload:** Reduce draw calls through instancing and batching where appropriate; control polygon count, shader complexity, texture resolution, and overdraw.
+- **Loading:** Use compressed assets, lazy loading, and progressive scene initialization where appropriate.
+- **Runtime profiling:** Measure frame time, frames per second, draw calls, triangle count, texture memory, and initial asset-transfer size.
+
+**Performance reporting:** GPU improvement percentages depend on the baseline scene, device/GPU, browser, resolution, and optimization. I have not inserted a fabricated percentage; add before/after measurements from the actual project to make this claim credible.
+
 **Stack:** Three.js · WebGL · JavaScript/TypeScript · Blender · Spline
 
-### 06. Bharani Farm — Interactive 3D Exploration
+### 07. Bharani Farm — Interactive 3D Experience
 
-**A creative project exploring 3D-driven presentation and interactive web experiences.**
+A creative 3D web project exploring spatial presentation, interactive scenes, and visual storytelling through real-time browser graphics.
 
-- Exploration of interactive 3D scenes.
-- Combining visual design with web technologies.
-- Experimenting with spatial layouts and immersive presentation.
+**Technical implementation and optimization areas**
+- Build a scene from reusable meshes, materials, lights, and camera controls.
+- Optimize geometry and textures before shipping assets to the browser.
+- Use frustum culling, level-of-detail strategies, and instancing when scene complexity warrants them.
+- Profile frame time, FPS, draw calls, triangle count, texture memory, and asset loading on representative devices.
+- Balance visual fidelity against mobile GPU limits and initial load performance.
 
-**Engineering focus:** Three-dimensional interfaces, creative frontend development, and interactive web graphics.  
-**Stack:** Three.js · JavaScript · Web Graphics
+**Performance reporting:** Record a baseline and optimized run on the same device, browser, viewport, and scene. Report actual FPS/frame-time and asset-size changes; no GPU percentage is claimed without measurements.
 
-### 07. Young Frames — Product & Design Engineering
+**Stack:** Three.js · JavaScript · WebGL concepts · 3D assets · Interactive web graphics
 
-**A design and technology venture focused on digital products and experiences.**
+### 08. Young Frames — Product & Design Engineering
 
-As Founder & CTO, I work across the intersection of design, software engineering, and product development.
+A design and technology venture building digital products and web experiences, with work spanning product design, frontend engineering, and full-stack delivery.
 
-- Product discovery, UX design, and interface engineering.
-- Full-stack web applications and frontend systems.
-- Brand systems, interactive interfaces, and reusable UI components.
-- Client-facing digital experiences and product delivery.
+**Technical implementation**
+- Product discovery and user-experience design.
+- Reusable UI patterns, responsive interfaces, and design systems.
+- Web application development and client-facing digital experiences.
+- Integration of visual identity, interaction design, and implementation details.
 
-**Engineering focus:** Product architecture, design systems, full-stack development, and translating requirements into usable software.  
 **Stack:** React · Next.js · TypeScript · Tailwind CSS · Figma · Modern web tooling
-
----
-
-## Technical Expertise
-
-### Full-Stack Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,python,fastapi,html,css,tailwind,vite&perline=7" alt="Full-stack development technologies" />
-</p>
-
-**Languages:** TypeScript · JavaScript · Python · Java · SQL · HTML · CSS  
-**Frontend:** React · Next.js · Angular · Redux Toolkit · Tailwind CSS · Vite · TipTap  
-**Backend:** Node.js · Express · FastAPI · REST APIs · WebSockets · Server-Sent Events  
-**Engineering concepts:** API design · Authentication · State management · Modular architecture · Error handling · Performance optimization
-
-### AI Engineering & LLM Applications
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker&perline=5" alt="AI engineering supporting technologies" />
-</p>
-
-**LLM frameworks and tooling**
-
-- LangChain — LLM application components and integrations.
-- LangGraph — stateful, multi-step agent workflow orchestration.
-- Langfuse — LLM tracing, observability, and evaluation workflows.
-- OpenAI APIs, OpenRouter, Gemini, Claude, and DeepSeek.
-
-**Core AI engineering concepts**
-
-- Retrieval-Augmented Generation (RAG).
-- Embeddings, semantic search, and vector retrieval.
-- Document parsing, chunking, and indexing.
-- Tool calling and structured outputs.
-- Stateful agent workflows and context management.
-- Streaming responses and asynchronous processing.
-- Prompt evaluation, tracing, latency analysis, and token-cost tracking.
-- Model selection, routing, and inference cost optimization.
-
-**AI infrastructure:** Python · FastAPI · Redis · PostgreSQL · Elasticsearch · LLM APIs
-
-### Databases & Data Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase,prisma&perline=7" alt="Database and data technologies" />
-</p>
-
-PostgreSQL · MongoDB · Redis · MySQL · Firebase · Supabase · Convex · Prisma · Elasticsearch
-
-**Concepts:** Data modeling · Schema design · Indexing · Caching · Search · Pagination · Aggregation · Real-time data flows
-
-### Cloud, DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,github,githubactions,vercel,cloudflare&perline=7" alt="Cloud and DevOps technologies" />
-</p>
-
-Docker · Kubernetes · AWS · Google Cloud · Azure · Linux · Nginx · Git · GitHub Actions · Vercel · Cloudflare
-
-**Concepts:** CI/CD · Containerization · Deployment automation · Environment configuration · Build optimization · Infrastructure fundamentals
-
-### UI/UX & Product Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&perline=5" alt="Design and creative technologies" />
-</p>
-
-Figma · Photoshop · Illustrator · UI architecture · Design systems · Prototyping · Interaction design · Accessibility · Product thinking · Visual communication
-
-### 3D & Creative Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,blender,webgl&perline=3" alt="3D and creative development technologies" />
-</p>
-
-Three.js · WebGL · Blender · Spline · Interactive 3D · Spatial interfaces · Motion design · Creative coding
-
-### Testing, Quality & Performance
-
-Jest · Vitest · Cypress · Playwright · Postman · Lighthouse · ESLint · Prettier
-
-**Engineering practices:** Automated testing · API validation · Debugging · Profiling · Bundle optimization · Maintainable code · Code reviews
-
----
-
-## How I Approach Engineering
-
-| Principle | Approach |
-| --- | --- |
-| Product first | Understand the user problem before choosing the technology. |
-| Architecture matters | Design maintainable systems with clear responsibilities and data flows. |
-| Measure performance | Optimize based on observed bottlenecks and real requirements. |
-| AI with accountability | Evaluate output quality, latency, cost, and failure modes. |
-| Design meets engineering | Treat usability and technical quality as complementary concerns. |
-| Ship and iterate | Learn from actual usage, debugging, and feedback. |
-
----
-
-## Open Source
-
-I contribute to open-source projects and communities spanning design tooling, AI infrastructure, and software development.
-
-- **Open Design** — Open-source design tooling.
-- **Langfuse** — LLM observability and evaluation.
-- **Loams** — Open-source software contribution.
-- **NovaNote** — Collaborative product development.
-
-My focus is on understanding existing codebases, contributing practical improvements, and building software that other developers can use.
 
 ---
 
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharanitharankr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanitharankr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="165" alt="Most-used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharanitharankr&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanitharankr&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top programming languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanitharankr&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bharanitharankr?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/bharanitharankr?tab=activity">
+    <img src="https://img.shields.io/badge/Recent-GitHub%20Activity-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" alt="Recent GitHub activity" />
+  </a>
 </p>
 
 ---
