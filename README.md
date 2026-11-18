@@ -20,17 +20,17 @@
 
 ---
 
+
 ## About Me
-## About Me
 
-I'm **Bharanitharan K R** — **Founder & CTO of Young Frames**, Full-Stack Software Engineer, AI Engineer, and Product Designer.
+I'm **Bharanitharan K R**, Founder & CTO of **Young Frames** — a full-stack engineer, AI engineer, and product designer who builds beyond the boundaries of a single discipline.
 
-I build products from the ground up — architecting systems, engineering interfaces, developing backends, integrating AI, and taking ideas from concept to production. My work spans full-stack application development, LLM systems, document intelligence, developer infrastructure, distributed workflows, local-first software, and interactive 3D experiences.
+I bridge product thinking, design, engineering, and infrastructure — turning ideas into architectures, architectures into code, and code into products people can use. From crafting interfaces and engineering backend systems to exploring AI, developer tooling, and creative technology, I work across the entire product lifecycle.
 
-I believe great software comes from understanding the entire system, not just the layer you're working on. I move between product thinking, system architecture, engineering, and design to build solutions that are technically rigorous, intuitive to use, and built to scale.
+**Vision:**  
+To inspire creators to merge artistry with technical precision and redefine digital experiences.
 
-Beyond product development, I'm an active open-source contributor who believes in learning by building, questioning existing approaches, and making technology better for the people who use it.
-
+[View My Portfolio](https://portfolio-bt.vercel.app) • [Experience Folder](https://drive.google.com/drive/folders/1sOk-TaXowDnSuU8Pzfrk6lIHHhEpT-Gq)
 ---
 
 ## Tech Stack
